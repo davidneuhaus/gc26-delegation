@@ -22,10 +22,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:flight-muc-pek@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART:20261024T174500Z
 DTEND:20261025T034500Z
 SUMMARY:Lufthansa: Munich (MUC) → Beijing (PEK)
@@ -39,10 +39,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:flight-pek-muc@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART:20261101T060500Z
 DTEND:20261101T181000Z
 SUMMARY:Lufthansa: Beijing (PEK) → Munich (MUC) · Beijing-return travell
@@ -58,10 +58,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:hotel-beijing-arrival@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Hotel stay: Crowne Plaza Beijing Zhongguancun
@@ -77,10 +77,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:hotel-zoucheng@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Hotel stay: Atour Hotel Zoucheng Renmin Square
@@ -97,10 +97,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:hotel-shanghai@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261029
 SUMMARY:Hotel stay: Holiday Inn Shanghai Pudong Kangqiao
@@ -116,10 +116,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:hotel-shenzhen@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hotel stay: Kempinski Hotel Shenzhen
@@ -136,10 +136,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:hotel-beijing-return@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Hotel stay: Holiday Inn Beijing Airport Zone · Beijing-return trav
@@ -158,10 +158,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261024-01@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:[Time TBD] Travel to Munich airport and check-in
@@ -177,10 +177,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261025-02@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261025T120000
 DTEND;TZID=Asia/Shanghai:20261025T143000
 SUMMARY:[Tentative time] Arrival formalities and transfer to Beijing hotel
@@ -196,10 +196,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261025-03@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261025T143000
 DTEND;TZID=Asia/Shanghai:20261025T170000
 SUMMARY:[Tentative time] Hotel check-in\, rest and connectivity setup
@@ -214,10 +214,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261025-04@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261025T170000
 DTEND;TZID=Asia/Shanghai:20261025T180000
 SUMMARY:[Tentative time] Delegation kickoff and programme review
@@ -232,10 +232,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261025-05@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261025T183000
 DTEND;TZID=Asia/Shanghai:20261025T200000
 SUMMARY:[Tentative time] Welcome dinner and next-day preparation
@@ -250,10 +250,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261026-01@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261026T083000
 DTEND;TZID=Asia/Shanghai:20261026T091500
 SUMMARY:[Tentative time] Breakfast and GALBOT preparation
@@ -269,10 +269,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261026-02@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:[Time TBD] Checkout or agree luggage storage before the GALBOT meet
@@ -290,10 +290,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261026-03@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261026T091500
 DTEND;TZID=Asia/Shanghai:20261026T104500
 SUMMARY:[Tentative time] Transfer to GALBOT meeting or healthcare site
@@ -308,10 +308,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261026-04@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261026T110000
 DTEND;TZID=Asia/Shanghai:20261026T130000
 SUMMARY:[End time tentative] GALBOT meeting and healthcare use cases
@@ -327,10 +327,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261026-05@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261026T130000
 DTEND;TZID=Asia/Shanghai:20261026T150000
 SUMMARY:[Tentative time] Lunch and visit synthesis
@@ -345,10 +345,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261026-beijing-south-transfer@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261026T180000
 DTEND;TZID=Asia/Shanghai:20261026T190000
 SUMMARY:[Tentative time] Transfer to Beijing South station and complete tic
@@ -365,10 +365,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261026-06@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261026T200200
 DTEND;TZID=Asia/Shanghai:20261026T223900
 SUMMARY:Train G1719: Beijingnan / Beijing South → Qufudong / Qufu East
@@ -384,10 +384,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261026-07@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:[Time TBD] Local transfer from Qufu East to Atour Zoucheng and late
@@ -407,10 +407,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261027-01@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261027T073000
 DTEND;TZID=Asia/Shanghai:20261027T090000
 SUMMARY:[Tentative time] Breakfast\, preparation and local transfer to ROKA
@@ -427,10 +427,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261027-02@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261027T090000
 DTEND;TZID=Asia/Shanghai:20261027T113000
 SUMMARY:[Tentative time] ROKAE half-day production workshop visit
@@ -447,10 +447,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261027-04@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261027T113000
 DTEND;TZID=Asia/Shanghai:20261027T120000
 SUMMARY:[Tentative time] Short lunch and visit synthesis
@@ -466,10 +466,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261027-qufu-east-transfer@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261027T120000
 DTEND;TZID=Asia/Shanghai:20261027T130000
 SUMMARY:[Tentative time] Transfer from ROKAE / Zoucheng to Qufu East statio
@@ -486,10 +486,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261027-05@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261027T135400
 DTEND;TZID=Asia/Shanghai:20261027T165900
 SUMMARY:Train G733: Qufudong / Qufu East → Shanghai Hongqiao
@@ -505,10 +505,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261027-06@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:[Time TBD] Shanghai hotel check-in and dinner
@@ -525,10 +525,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261028-01@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:[Time TBD] AGIBOT preparation and team check-in
@@ -545,10 +545,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261028-02@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261028T120000
 DTEND;TZID=Asia/Shanghai:20261028T140000
 SUMMARY:[Tentative time] Lunch and transfer to AGIBOT
@@ -563,10 +563,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261028-03@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261028T140000
 DTEND;TZID=Asia/Shanghai:20261028T170000
 SUMMARY:[Tentative time] AGIBOT meeting and demonstrations
@@ -582,10 +582,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261028-04@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261028T170000
 DTEND;TZID=Asia/Shanghai:20261028T180000
 SUMMARY:[Tentative time] Debrief on training\, deployment and economics
@@ -600,10 +600,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261028-05@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:[Time TBD] Dinner and preparation for AGIBOT event
@@ -619,10 +619,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261029-01@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:[Time TBD] Daily check-in and event preparation
@@ -638,10 +638,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261029-02@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:[Time TBD] Checkout and store luggage before the AGIBOT event / onw
@@ -659,10 +659,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261029-03@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:[Time TBD] AGIBOT AI event or product launch
@@ -678,10 +678,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261029-04@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:[Time TBD] Networking and event synthesis only as time allows befor
@@ -698,10 +698,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261029-pvg-airport-transfer@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:[Time TBD] Transfer to Shanghai Pudong Airport Terminal 2 and check
@@ -719,10 +719,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261029-05@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261029T170000
 DTEND;TZID=Asia/Shanghai:20261029T194000
 SUMMARY:Hainan Airlines HU7724: Shanghai Pudong PVG T2 → Shenzhen Bao’a
@@ -739,10 +739,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261029-06@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:[Time TBD] Shenzhen hotel check-in
@@ -759,17 +759,17 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261030-01@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261030T080000
-DTEND;TZID=Asia/Shanghai:20261030T090000
-SUMMARY:[Tentative time] Breakfast and AI2 Robotics preparation
-DESCRIPTION:Agenda activity: Breakfast and AI2 Robotics preparation. Planni
- ng window: 08:00 to 09:00. Exact time field: [TBD]. All timed events are C
- hina local time unless this is an airport-local flight. Times are provisio
- nal\; check the agenda for updates. 
+DTEND;TZID=Asia/Shanghai:20261030T093000
+SUMMARY:[Tentative time] Breakfast and preparation for playbook reflection
+DESCRIPTION:Agenda activity: Breakfast and preparation for playbook reflect
+ ion. Planning window: 08:00 to 09:30. Exact time field: [TBD]. All timed e
+ vents are China local time unless this is an airport-local flight. Times a
+ re provisional\; check the agenda for updates. 
 LOCATION:Kempinski Hotel Shenzhen\; Hai De San Dao\, Hou Hai Bin Road\, Nan
  shan District\, Shenzhen 518054
 STATUS:TENTATIVE
@@ -777,125 +777,204 @@ TRANSP:OPAQUE
 URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
-UID:agenda-20261030-02@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
-DTSTART;TZID=Asia/Shanghai:20261030T090000
-DTEND;TZID=Asia/Shanghai:20261030T100000
-SUMMARY:[Tentative time] Transfer to AI2 Robotics in Shenzhen
-DESCRIPTION:Agenda activity: Transfer to AI2 Robotics in Shenzhen\; allow a
- rrival before 10:00. Planning window: 09:00 to 10:00. Exact time field: [T
- BD transfer timing]. All timed events are China local time unless this is 
- an airport-local flight. Times are provisional\; check the agenda for upda
- tes. 
-LOCATION:AI2 Robotics\, Shenzhen\; exact venue to confirm
+UID:playbook-reflection-20261030@china-grand-challenge-2026
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
+DTSTART;TZID=Asia/Shanghai:20261030T100000
+DTEND;TZID=Asia/Shanghai:20261030T113000
+SUMMARY:[End time tentative] Reflection and discussion of our robotics play
+ book
+DESCRIPTION:Agenda activity: Reflection and discussion of our robotics play
+ book. Planning window: 10:00 to 11:30. Exact time field: Start 10:00\; fin
+ ish [TBD — 11:30 planning placeholder]. All timed events are China local
+  time unless this is an airport-local flight. Start time is recorded\; the
+  finish time is provisional. Check the agenda for updates.  Venue / meetin
+ g room: [TBD]. Delegation coordination: Chris / Huaqing. Review insights s
+ o far\, discuss the playbook and prepare questions for the afternoon compa
+ ny visits. Start supplied by the delegation\; duration not confirmed. Prop
+ osed finish 11:30 to allow transfer for lunch at 12:30\; confirm the actua
+ l route and pickup.
+LOCATION:Shenzhen\; playbook reflection venue / meeting room to confirm
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
-UID:agenda-20261030-03@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
-DTSTART;TZID=Asia/Shanghai:20261030T100000
-DTEND;TZID=Asia/Shanghai:20261030T120000
-SUMMARY:AI2 Robotics meeting (2 hours)\, followed by Linkerbot in the after
- noon
-DESCRIPTION:Agenda activity: AI2 Robotics meeting (2 hours)\, followed by L
- inkerbot in the afternoon. Planning window: 10:00 to 12:00. Exact time fie
- ld: 10:00–12:00. All timed events are China local time unless this is an
-  airport-local flight. 
-LOCATION:Linkerbot\, Shenzhen\; exact venue to confirm
-STATUS:CONFIRMED
+UID:linkerbot-lunch-transfer-20261030@china-grand-challenge-2026
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
+DTSTART;TZID=Asia/Shanghai:20261030T113000
+DTEND;TZID=Asia/Shanghai:20261030T123000
+SUMMARY:[Tentative time] Transfer to lunch with Linkerbot near their office
+DESCRIPTION:Agenda activity: Transfer to lunch with Linkerbot near their of
+ fice. Planning window: 11:30 to 12:30. Exact time field: [TBD pickup\; arr
+ ive for 12:30 lunch]. All timed events are China local time unless this is
+  an airport-local flight. Times are provisional\; check the agenda for upd
+ ates.  Lunch restaurant / exact meeting point: [TBD]. Office-area referenc
+ e: 深圳·星河双子塔西塔 广东省深圳市龙岗区雅星路8号-
+ 1(雅宝地铁站B口旁). Pickup and journey duration depend on the refle
+ ction venue and traffic\; confirm with the driver.
+LOCATION:Shenzhen\; transfer to lunch near Shenzhen Galaxy Twin Towers West
+  Tower\; restaurant to confirm
+STATUS:TENTATIVE
 TRANSP:OPAQUE
 URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261030-04@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
-DTSTART;TZID=Asia/Shanghai:20261030T120000
-DTEND;TZID=Asia/Shanghai:20261030T140000
-SUMMARY:[Tentative time] Lunch and transfer to Linkerbot
-DESCRIPTION:Agenda activity: Lunch and transfer to Linkerbot. Planning wind
- ow: 12:00 to 14:00. Exact time field: [TBD]. All timed events are China lo
- cal time unless this is an airport-local flight. Times are provisional\; c
- heck the agenda for updates. 
-LOCATION:Linkerbot\, Shenzhen\; exact venue to confirm
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
+DTSTART;TZID=Asia/Shanghai:20261030T123000
+DTEND;TZID=Asia/Shanghai:20261030T134500
+SUMMARY:[End time tentative] Lunch with Linkerbot near their office
+DESCRIPTION:Agenda activity: Lunch with Linkerbot near their office. Planni
+ ng window: 12:30 to 13:45. Exact time field: Start 12:30\; finish [TBD —
+  13:45 planning placeholder]. All timed events are China local time unless
+  this is an airport-local flight. Start time is recorded\; the finish time
+  is provisional. Check the agenda for updates.  Restaurant / exact lunch m
+ eeting point: [TBD — near the office\, not yet supplied]. Office referen
+ ce: 深圳·星河双子塔西塔 广东省深圳市龙岗区雅星路8号
+ -1(雅宝地铁站B口旁)\nWest Tower\, Shenzhen Galaxy Twin Towers\, No.
+  8-1 Yaxing Road\, Longgang District\, Shenzhen\, Guangdong\; beside Exit 
+ B of Yabao Metro Station\nLunch start supplied by delegation\; finish prov
+ isional to allow a short walk / transfer to the 14:00 business meeting.
+LOCATION:Near Linkerbot office\, Shenzhen Galaxy Twin Towers West Tower\, 8
+ -1 Yaxing Road\, Longgang\, Shenzhen\; restaurant to confirm
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261030-05@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261030T140000
-DTEND;TZID=Asia/Shanghai:20261030T163000
-SUMMARY:[Tentative time] Linkerbot hands\, teleoperation and training-data 
- discussion
-DESCRIPTION:Agenda activity: Linkerbot hands\, teleoperation and training-d
- ata discussion\; afternoon visit agreed. Planning window: 14:00 to 16:30. 
- Exact time field: [TBD host confirmation]. All timed events are China loca
- l time unless this is an airport-local flight. Times are provisional\; che
- ck the agenda for updates. 
-LOCATION:Linkerbot\, Shenzhen\; exact venue to confirm
+DTEND;TZID=Asia/Shanghai:20261030T160000
+SUMMARY:[End time tentative] Linkerbot business meeting: hands\, teleoperat
+ ion and training-data discussion
+DESCRIPTION:Agenda activity: Linkerbot business meeting: hands\, teleoperat
+ ion and training-data discussion. Planning window: 14:00 to 16:00. Exact t
+ ime field: Start 14:00\; finish [TBD — 16:00 planning placeholder]. All 
+ timed events are China local time unless this is an airport-local flight. 
+ Start time is recorded\; the finish time is provisional. Check the agenda 
+ for updates.  Meeting address supplied by delegation: 深圳·星河双子
+ 塔西塔 广东省深圳市龙岗区雅星路8号-1(雅宝地铁站B口
+ 旁)\nWest Tower\, Shenzhen Galaxy Twin Towers\, No. 8-1 Yaxing Road\, Lon
+ ggang District\, Shenzhen\, Guangdong\; beside Exit B of Yabao Metro Stati
+ on\nFloor / room\, lobby meeting point and host direct contact: [TBD]. Off
+ icial general enquiry phone / WeChat: +86 131 2661 8227. Start 14:00\; fin
+ ish provisional. Allow onward travel to AI2 Robotics for 17:00.
+LOCATION:深圳·星河双子塔西塔 广东省深圳市龙岗区雅星路
+ 8号-1(雅宝地铁站B口旁)\; West Tower\, Shenzhen Galaxy Twin Towers\
+ , No. 8-1 Yaxing Road\, Longgang District\, Shenzhen\, Guangdong\; beside 
+ Exit B of Yabao Metro Station
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
+END:VEVENT
+BEGIN:VEVENT
+UID:agenda-20261030-02@china-grand-challenge-2026
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
+DTSTART;TZID=Asia/Shanghai:20261030T160000
+DTEND;TZID=Asia/Shanghai:20261030T170000
+SUMMARY:[Tentative time] Transfer from Linkerbot to AI2 Robotics in Shenzhe
+ n
+DESCRIPTION:Agenda activity: Transfer from Linkerbot to AI2 Robotics in She
+ nzhen. Planning window: 16:00 to 17:00. Exact time field: [TBD transfer ti
+ ming\; arrive before 17:00]. All timed events are China local time unless 
+ this is an airport-local flight. Times are provisional\; check the agenda 
+ for updates.  Depart Linkerbot: 深圳·星河双子塔西塔 广东省深
+ 圳市龙岗区雅星路8号-1(雅宝地铁站B口旁). AI2 Robotics venue
+ \, driver\, pickup and route duration: [TBD]. Adjust Linkerbot finish afte
+ r the onward route is confirmed.
+LOCATION:Linkerbot\, Shenzhen Galaxy Twin Towers West Tower → AI2 Robotic
+ s\, Shenzhen\; AI2 venue to confirm
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
+END:VEVENT
+BEGIN:VEVENT
+UID:agenda-20261030-03@china-grand-challenge-2026
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
+DTSTART;TZID=Asia/Shanghai:20261030T170000
+DTEND;TZID=Asia/Shanghai:20261030T183000
+SUMMARY:[End time tentative] AI2 Robotics meeting
+DESCRIPTION:Agenda activity: AI2 Robotics meeting\; rescheduled to 17:00 af
+ ter Linkerbot. Planning window: 17:00 to 18:30. Exact time field: Start 17
+ :00\; finish [TBD — 18:30 planning placeholder]. All timed events are Ch
+ ina local time unless this is an airport-local flight. Start time is recor
+ ded\; the finish time is provisional. Check the agenda for updates.  Host-
+ confirmed venue\, address\, entrance\, phone and WeChat: [TBD]. Start supp
+ lied by delegation on 29 October. Duration to confirm\; 18:30 is provision
+ al to allow onward travel to the reception around 19:00.
+LOCATION:AI2 Robotics\, Shenzhen\; meeting venue to confirm
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261030-06@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
-DTSTART;TZID=Asia/Shanghai:20261030T163000
-DTEND;TZID=Asia/Shanghai:20261030T173000
-SUMMARY:[Tentative time] Debrief on dexterity\, skills and integration
-DESCRIPTION:Agenda activity: Debrief on dexterity\, skills and integration.
-  Planning window: 16:30 to 17:30. Exact time field: [TBD]. All timed event
- s are China local time unless this is an airport-local flight. Times are p
- rovisional\; check the agenda for updates. 
-LOCATION:Shenzhen
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
+DTSTART;TZID=Asia/Shanghai:20261030T183000
+DTEND;TZID=Asia/Shanghai:20261030T190000
+SUMMARY:[Tentative time] Transfer to evening reception
+DESCRIPTION:Agenda activity: Transfer to evening reception. Planning window
+ : 18:30 to 19:00. Exact time field: [TBD pickup and reception venue]. All 
+ timed events are China local time unless this is an airport-local flight. 
+ Times are provisional\; check the agenda for updates.  Reception venue\, h
+ ost and transfer route: [TBD]. The visit finish time and transfer window d
+ epend on the final reception arrangements.
+LOCATION:Shenzhen\; transfer to reception venue to confirm
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261030-07@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:[Time TBD] Dinner and preparation for ASTRALL
-DESCRIPTION:Agenda activity: Dinner and preparation for ASTRALL. Planning w
- indow: Evening. Exact time field: [TBD]. All timed events are China local 
- time unless this is an airport-local flight. Times are provisional\; check
-  the agenda for updates.  No exact time is assigned\; this is a tentative 
- all-day planning entry.
-LOCATION:Huafeng International Robotics Industrial Park\, Bao’an District
- \, Shenzhen
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
+DTSTART;TZID=Asia/Shanghai:20261030T190000
+DTEND;TZID=Asia/Shanghai:20261030T210000
+SUMMARY:[Tentative time] Reception with local robotics community and Swedis
+ h participants — placeholder
+DESCRIPTION:Agenda activity: Reception with local robotics community and Sw
+ edish participants — placeholder. Planning window: 19:00 to 21:00. Exact
+  time field: [TBD — around 19:00\; finish not supplied]. All timed event
+ s are China local time unless this is an airport-local flight. Times are p
+ rovisional\; check the agenda for updates.  Host / organiser\, Swedish par
+ ticipants\, local robotics community\, venue\, address\, contact\, invitat
+ ion and format: [TBD — details to follow]. Approximately 19:00 is a plan
+ ning placeholder\; 21:00 is a provisional end only.
+LOCATION:Shenzhen\; reception venue to confirm
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
+TRANSP:OPAQUE
 URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261031-01@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261031T080000
 DTEND;TZID=Asia/Shanghai:20261031T100000
 SUMMARY:[Tentative time] Breakfast\, hotel checkout and transfer to ASTRALL
@@ -911,10 +990,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261031-02@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261031T100000
 DTEND;TZID=Asia/Shanghai:20261031T113000
 SUMMARY:[End time tentative] ASTRALL meeting
@@ -933,10 +1012,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261031-04@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261031T113000
 DTEND;TZID=Asia/Shanghai:20261031T130000
 SUMMARY:[Tentative time] Lunch and transfer from ASTRALL in Bao’an to Ast
@@ -954,10 +1033,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:visit-astribot-20261031@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261031T130000
 DTEND;TZID=Asia/Shanghai:20261031T143000
 SUMMARY:[End time tentative] Astribot company visit
@@ -981,10 +1060,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261031-05@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261031T144500
 DTEND;TZID=Asia/Shanghai:20261031T160000
 SUMMARY:[Tentative time] Wrap-up meeting in Shenzhen: shared insights\, Eur
@@ -1004,10 +1083,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261031-06@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261031T160000
 DTEND;TZID=Asia/Shanghai:20261031T173000
 SUMMARY:[Tentative time] Transfer to Shenzhen Bao’an Airport Terminal 3 a
@@ -1025,10 +1104,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261031-07@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;TZID=Asia/Shanghai:20261031T200000
 DTEND;TZID=Asia/Shanghai:20261031T231500
 SUMMARY:Beijing-return travellers: Air China CA1358 flight from Shenzhen to
@@ -1046,10 +1125,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261031-08@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:[Time TBD] Arrival and hotel check-in in Beijing
@@ -1068,10 +1147,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261101-01@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:[Time TBD] Breakfast and preparation for departure
@@ -1089,10 +1168,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261101-02@china-grand-challenge-2026
-DTSTAMP:20261026T124450Z
-CREATED:20261026T124450Z
-LAST-MODIFIED:20261026T124450Z
-SEQUENCE:1793018690
+DTSTAMP:20261029T140743Z
+CREATED:20261029T140743Z
+LAST-MODIFIED:20261029T140743Z
+SEQUENCE:1793282863
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:[Time TBD] Hotel checkout\, transfer to PEK and airport formalities
