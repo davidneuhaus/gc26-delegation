@@ -906,10 +906,10 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261030-03@china-grand-challenge-2026
-DTSTAMP:20261029T140743Z
+DTSTAMP:20261029T144655Z
 CREATED:20261029T140743Z
-LAST-MODIFIED:20261029T140743Z
-SEQUENCE:1793282863
+LAST-MODIFIED:20261029T144655Z
+SEQUENCE:1793285215
 DTSTART;TZID=Asia/Shanghai:20261030T170000
 DTEND;TZID=Asia/Shanghai:20261030T183000
 SUMMARY:[End time tentative] AI2 Robotics meeting
@@ -920,7 +920,8 @@ DESCRIPTION:Agenda activity: AI2 Robotics meeting\; rescheduled to 17:00 af
  ded\; the finish time is provisional. Check the agenda for updates.  Host-
  confirmed venue\, address\, entrance\, phone and WeChat: [TBD]. Start supp
  lied by delegation on 29 October. Duration to confirm\; 18:30 is provision
- al to allow onward travel to the reception around 19:00.
+ al to allow onward travel toward Brass House for TECH, TALK & DRINKS at 20
+ :00.
 LOCATION:AI2 Robotics\, Shenzhen\; meeting venue to confirm
 STATUS:TENTATIVE
 TRANSP:OPAQUE
@@ -928,44 +929,48 @@ URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261030-06@china-grand-challenge-2026
-DTSTAMP:20261029T140743Z
+DTSTAMP:20261029T144655Z
 CREATED:20261029T140743Z
-LAST-MODIFIED:20261029T140743Z
-SEQUENCE:1793282863
-DTSTART;TZID=Asia/Shanghai:20261030T183000
-DTEND;TZID=Asia/Shanghai:20261030T190000
-SUMMARY:[Tentative time] Transfer to evening reception
-DESCRIPTION:Agenda activity: Transfer to evening reception. Planning window
- : 18:30 to 19:00. Exact time field: [TBD pickup and reception venue]. All 
- timed events are China local time unless this is an airport-local flight. 
- Times are provisional\; check the agenda for updates.  Reception venue\, h
- ost and transfer route: [TBD]. The visit finish time and transfer window d
- epend on the final reception arrangements.
-LOCATION:Shenzhen\; transfer to reception venue to confirm
+LAST-MODIFIED:20261029T144655Z
+SEQUENCE:1793285215
+DTSTART;TZID=Asia/Shanghai:20261030T193000
+DTEND;TZID=Asia/Shanghai:20261030T200000
+SUMMARY:[Tentative time] Transfer to TECH, TALK & DRINKS at Brass House
+DESCRIPTION:Agenda activity: Transfer to TECH, TALK & DRINKS at Brass House
+ . Planning window: 19:30 to 20:00. Exact time field: [TBD pickup\; aim to 
+ arrive by 20:00]. All timed events are China local time unless this is an 
+ airport-local flight. Times are provisional\; check the agenda for updates
+ .  Flyer-confirmed reception starts 20:00 at Brass House\, Shuiwei 1368 Cu
+ ltural Block. Pickup point after AI2 and transfer route: [TBD]. Keep STATU
+ S tentative until driver/route confirmed.
+LOCATION:Transfer to Brass House\, Shuiwei 1368 Cultural Block\, Jintian Ro
+ ad\, Futian\, Shenzhen · 深圳市福田区金田路水围1368文化街
+ 区168栋首层
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
 BEGIN:VEVENT
 UID:agenda-20261030-07@china-grand-challenge-2026
-DTSTAMP:20261029T140743Z
+DTSTAMP:20261029T144655Z
 CREATED:20261029T140743Z
-LAST-MODIFIED:20261029T140743Z
-SEQUENCE:1793282863
-DTSTART;TZID=Asia/Shanghai:20261030T190000
-DTEND;TZID=Asia/Shanghai:20261030T210000
-SUMMARY:[Tentative time] Reception with local robotics community and Swedis
- h participants — placeholder
-DESCRIPTION:Agenda activity: Reception with local robotics community and Sw
- edish participants — placeholder. Planning window: 19:00 to 21:00. Exact
-  time field: [TBD — around 19:00\; finish not supplied]. All timed event
- s are China local time unless this is an airport-local flight. Times are p
- rovisional\; check the agenda for updates.  Host / organiser\, Swedish par
- ticipants\, local robotics community\, venue\, address\, contact\, invitat
- ion and format: [TBD — details to follow]. Approximately 19:00 is a plan
- ning placeholder\; 21:00 is a provisional end only.
-LOCATION:Shenzhen\; reception venue to confirm
-STATUS:TENTATIVE
+LAST-MODIFIED:20261029T144655Z
+SEQUENCE:1793285215
+DTSTART;TZID=Asia/Shanghai:20261030T200000
+DTEND;TZID=Asia/Shanghai:20261030T230000
+SUMMARY:TECH, TALK & DRINKS · Brass House
+DESCRIPTION:Agenda activity: TECH, TALK & DRINKS at Brass House. Planning w
+ indow: 20:00 onwards (flyer: 8PM ONWARDS). Exact time field: Start 20:00\;
+  open end ~23:00. All timed events are China local time unless this is an 
+ airport-local flight.  Flyer confirmed Friday 30 October 2026\, 20:00 onwa
+ rds. Event: Tech\, Talk & Drinks. Venue: Brass House · Shuiwei 1368. Addr
+ ess CN: 深圳市福田区金田路水围1368文化街区168栋首层. Loc
+ al robotics community and Swedish participants context from earlier planni
+ ng still applies. Open-end after 20:00\; 23:00 is a calendar end placehold
+ er only.
+LOCATION:Brass House\, Shuiwei 1368 Cultural Block\, Jintian Road\, Futian\
+ , Shenzhen · 深圳市福田区金田路水围1368文化街区168栋首层
+STATUS:CONFIRMED
 TRANSP:OPAQUE
 URL:https://davidneuhaus.github.io/gc26-delegation/journey.html
 END:VEVENT
